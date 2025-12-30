@@ -25,7 +25,7 @@
 
 | **Dark Theme** | **Light Theme** | **Settings** |
 |:---:|:---:|:---:|
-| <img src="dark.png" width="250" alt="Dark Theme"> | <img src="light.png" width="250" alt="Light Theme"> | <img src="settings.png" width="250" alt="Settings Window"> |
+| <img src="screenshots/dark.png" width="250" alt="Dark Theme"> | <img src="screenshots/light.png" width="250" alt="Light Theme"> | <img src="screenshots/settings.png" width="250" alt="Settings Window"> |
 
 > *Note: Application automatically adapts to your system theme.*
 
