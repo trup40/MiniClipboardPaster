@@ -62,3 +62,19 @@ Want to build it yourself? Check out the [Build Instructions](BUILD.md).
 <div align="center">
   <sub>© 2025 Eagle. All Rights Reserved.</sub>
 </div>
+
+## ☕ Donate
+
+This project is free and open-source. If you find this useful and would like to support the development process, you can buy me a coffee using the crypto addresses below! 🚀
+
+### 🪙 Crypto Donations
+
+| Coin | Network | Wallet Address |
+| :--- | :--- | :--- |
+| **USDT (Tether)** | **TRC20** (Tron) | `TWxJVQ3PBCd8ZJJVkX2joe8WRGcSCdh8Ws` |
+| **BTC (Bitcoin)** | Bitcoin (Bech32)| `bc1q7207qk3wk94a94xvxx43lxawsg69zpm0atvtd8` |
+| **ETH (Ethereum)** | ERC20 | `0x1f5A2e35752c6f01c753F334292Fc7635Caeef56` |
+| **BNB** | **BSC** (BEP20) | `0x93845c5Fb889C36E072B5683f1616C625C2deBe7` |
+
+> [!IMPORTANT]
+> Please ensure that the **Network** selection matches the table exactly. Using the wrong network may result in a permanent loss of funds.
